@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-# TOKEN=068304fe63727b04612d2b2174902c70 sh curl-scripts/examples/index.sh
+# TOKEN=46a3b4d9f054259d31784468ed378ed6 sh curl-scripts/examples/index.sh
 
 
 
