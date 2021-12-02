@@ -1,5 +1,5 @@
 #!/bin/bash
-# EMAIL="samtest1@g" PASSWORD="project" sh curl-scripts/auth/sign-in.sh
+# EMAIL="samtest1@g" PASSWORD="tripBook" sh curl-scripts/auth/sign-in.sh
 
 
 API="http://localhost:4741"

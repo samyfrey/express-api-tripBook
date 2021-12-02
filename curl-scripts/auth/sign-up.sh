@@ -1,5 +1,5 @@
 #!/bin/bash
-# EMAIL="samtest1@g" PASSWORD="project" sh curl-scripts/auth/sign-up.sh
+# EMAIL="samtest2@g" PASSWORD="project" sh curl-scripts/auth/sign-up.sh
 
 API="http://localhost:4741"
 URL_PATH="/sign-up"

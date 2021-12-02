@@ -1,5 +1,5 @@
 #!/bin/bash
-# TOKEN='f92d137374f57b164c176d6ef267ff43' OLDPW='project' NEWPW='tripBook' sh curl-scripts/auth/change-password.sh 
+# TOKEN='986385a72a8e2cef617b81e26b768c03' OLDPW='project' NEWPW='tripBook' sh curl-scripts/auth/change-password.sh 
 
 API="http://localhost:4741"
 URL_PATH="/change-password"
